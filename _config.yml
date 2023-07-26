@@ -1,3 +1,5 @@
-theme: jekyll-theme-minimal
 title: AS197749 | TMIT
 description: Trimarchi Manuele, TMIT, AS197749
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme
