@@ -1,7 +1,7 @@
 ```
 aut-num:        AS197749
 as-name:        TMIT-AS
-descr:          Trimarchi Manuele
+descr:          TMIT
 remarks:
 remarks:        == PEERING INFO ==============================
 remarks:
