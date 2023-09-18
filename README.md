@@ -2,7 +2,7 @@
 |---------------|-----------------------------------------------------------------------------------------------------------------------------|
 | PeeringDB     | [as197749.peeringdb.com](https://as197749.peeringdb.com)                                                                    |
 | bgp.tools     | [bgp.tools/as/197749](https://bgp.tools/as/197749)                                                                          |
-| bgp.he.net    | [bgp.he.net/AS197749](https://bgp.he.net/AS197749))                                                                         |
+| bgp.he.net    | [bgp.he.net/AS197749](https://bgp.he.net/AS197749)                                                                          |
 | LookingGlass  | [LG provided by bgp.tools](https://bgp.tools/lg/197749#bgp)                                                                 |
 | IPv6 Prefix   | [2001:678:c84::/48](https://apps.db.ripe.net/db-web-ui/lookup?source=ripe&type=inet6num&key=2001:678:c84::%2F48)            |
 | IPv4 Prefix   | [185.169.27.0/24](https://apps.db.ripe.net/db-web-ui/lookup?source=ripe&type=inetnum&key=185.169.27.0%20-%20185.169.27.255) |
